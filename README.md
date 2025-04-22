@@ -38,14 +38,11 @@ An interactive web application that allows users to track their daily moods alon
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/mood-journal.git
-cd mood-journal
+git clone https://github.com/royabhi647/weather-mood-journal.git
+cd weather-mood-journal
 
 # Install dependencies
 npm install
-
-# Add your API key to a .env file
-echo "REACT_APP_WEATHER_API_KEY=your_api_key_here" > .env
 
 # Start the development server
 npm run dev
